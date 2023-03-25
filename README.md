@@ -1,16 +1,15 @@
-### Hi there 👋
+# Not a quiche lorraine
 
-<!--
-**ManQuiche/manquiche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a young engineer passionnate about cloud technologies in general. Quite polyvalent, I try to solve problems requiring a large skillset.
 
-Here are some ideas to get you started:
+In my day to day life, I work on Dev and DevOps tasks like microservices development, container management, GitOps, CI/CD, ..., and more precisely I use :
+* Golang
+* Kubernetes
+* Terraform
+* Linux
+* Gitlab CI
+* ArgoCD
+* and other tools but let's not make it too boring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on a solution to help people manage their vegetables plantation.
+My last project was about organizing parties with the help of microservices. This project is called Ricardo and you will find some related projects below.
