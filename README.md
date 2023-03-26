@@ -28,6 +28,7 @@ And more precisely :
 ## Projects 
 
 🔭 I’m currently working on a solution to help people manage their vegetables plantation.
+
 :beers: My last project was about organizing parties with the help of microservices. This project is called Ricardo and you will find some related projects below.
 
 
