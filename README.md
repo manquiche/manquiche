@@ -27,12 +27,12 @@ And more precisely :
 In my carreer, I had the opportinuty to work on these original subjects :
 * PCI-DSS / MPoC certification
 * Development of a solution in a FinTech
-* Again, it's enough
+* ...
 
 ## Projects 
 
 🔭 I’m currently working on : something secret.
 
-:beers: My last project was about organizing parties with the help of microservices, for no real reason but to learn how to work with them. This project is called Ricardo and you will find some related projects below.
+:beers: My last project was about organizing parties with the help of microservices, for no real reason but to learn how to work with them (at this time I was a complete beginner). This project is called Ricardo and you will find some related projects below.
 
 
