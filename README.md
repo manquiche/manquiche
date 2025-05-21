@@ -32,5 +32,7 @@ In my carreer, I had the opportinuty to work on these original subjects :
 
 :beers: My last project was about organizing parties with the help of microservices, for no real reason but to feel the pain. This project is called Ricardo and you will find some related projects below.
 
+<a href="https://app.daily.dev/manquiche"><img src="https://api.daily.dev/devcards/v2/wBPmxABWd5QkhvIsDCbvL.png?type=default&r=4a4" width="356" alt="Manquiche's Dev Card"/></a>
+
 Feel free to contact me ! Also available on [Upwork](https://www.upwork.com/freelancers/~018ec62283e3c44477).
 
