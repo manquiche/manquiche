@@ -1,7 +1,7 @@
 # Not a quiche lorraine
 
 I'm a young engineer passionnate about cloud technologies in general. Quite polyvalent, I try to solve problems requiring a large skillset.
-Graduated at ENSICAEN in computer science with e-Payments additionnal courses, I'm currently working for Flexcity, which aims to make every company an energy company by enabling [energy flexcibility](https://energy.ec.europa.eu/topics/research-and-technology/flexibility-markets_en).
+Graduated at ENSICAEN in computer science with e-Payments additionnal courses, I'm currently working for Flexcity, which aims to make every company an energy company by enabling [energy flexcibility]([https://energy.ec.europa.eu/topics/research-and-technology/flexibility-markets_en](https://www.flexcity.energy/en/solutions-technologies/pourquoi-valoriser-votre-flexibilite-electrique).
 
 ## Technologies
 In my day to day life, I mostly work on these following concepts :
